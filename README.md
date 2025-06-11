@@ -1,4 +1,4 @@
-- Hi, I’m Arav Gupta AKA @Insomniac-Robot 
+- Hi, I’m Arav Gupta
 - I’m interested in programming robots and doing projects
 - If you want to collaborate on something, reach out on my email!!
 
