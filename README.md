@@ -4,7 +4,7 @@
 
 - Reach me through my email aravgupta28@gmail.com
 
--I like cool electronics, PC's and robots 
+- I like cool electronics, PC's and robots 
 
 <!---
 Insomniac-Robot/Insomniac-Robot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
